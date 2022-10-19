@@ -1,0 +1,9 @@
+signup for developers.giphy.com
+go to giphy
+go to developers.giphy.com
+click on read docs
+click on create an app
+choose api
+complete app space information
+copy api key
+paste key in .env file under VITE_GIPHY_API
